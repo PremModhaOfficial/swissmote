@@ -15,4 +15,4 @@ bun install
 bun run start
 ```
 
-[[EXPO_README]]
+[default readme](./EXPO_README.md) 
